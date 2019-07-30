@@ -1,2 +1,2 @@
 # blackwing-n.github.io
-publish
+最後に
